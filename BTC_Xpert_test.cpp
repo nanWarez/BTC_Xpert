@@ -1,4 +1,4 @@
-//created by Cr4shOv3rrid3 under the 1337 General Public BTC Banking License 
+//created by Cr4shOv3rrid3 under the https://github.com/Cr4shOv3rrid3/1337_General_Public_BTC_Banking_license
 // feel free to copy, hack, destroy or create new things with it
 // P.S. if you don't like i created that for you. just replace first line with your own cool stylish hacker name ;)
 
